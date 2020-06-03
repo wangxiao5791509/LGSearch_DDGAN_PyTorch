@@ -24,14 +24,14 @@ Journal Extension: Coming Soon.
 ## Cite 
 
 If you find this paper useful for your research, please consider to cite our paper:
-
+~~~
 @inproceedings{wang2019GANTrack,
   title={Learning Target-aware Attention for Robust Tracking with Conditional Adversarial Network},
   author={Wang, Xiao and Sun, Tao and Yang, Rui and Luo, Bin},
   booktitle={30TH British Machine Vision Conference},
   year={2019}
 } 
-
+~~~
 
 
 
