@@ -9,9 +9,13 @@ Journal Extension: Coming Soon.
 
 
 
-## Demo 
+## Demo:
 
-
+![rgbt_car10](https://github.com/wangxiao5791509/LGSearch_DDGAN_PyTorch/blob/master/label.png) 
+![rgbt_car10](https://github.com/wangxiao5791509/LGSearch_DDGAN_PyTorch/blob/master/demo_1.gif) 
+![rgbt_car10](https://github.com/wangxiao5791509/LGSearch_DDGAN_PyTorch/blob/master/demo_2.gif) 
+![rgbt_car10](https://github.com/wangxiao5791509/LGSearch_DDGAN_PyTorch/blob/master/demo_3.gif) 
+![rgbt_car10](https://github.com/wangxiao5791509/LGSearch_DDGAN_PyTorch/blob/master/demo_4.gif) 
 
 ## Install 
 
