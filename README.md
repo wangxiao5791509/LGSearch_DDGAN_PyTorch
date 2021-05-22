@@ -14,8 +14,10 @@ Tracking-by-detection is a very popular framework for single object tracking whi
 ## Tracking Framework 
 ![rgbt_car10](https://github.com/wangxiao5791509/LGSearch_DDGAN_PyTorch/blob/master/pipeline.png) 
 
+#### Relations between IoU and confidence (response) score 
 ![rgbt_car10](https://github.com/wangxiao5791509/LGSearch_DDGAN_PyTorch/blob/master/iou_plot_all.png) 
 
+## Experimental Results 
 ![ganTANet_lasotv2](https://user-images.githubusercontent.com/12805786/119231068-8a2ecc80-bb51-11eb-85f1-61a7335f1c5f.png)
 
 
