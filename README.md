@@ -12,7 +12,7 @@ Tracking-by-detection is a very popular framework for single object tracking whi
 
 
 ## Tracking Framework 
-  
+![rgbt_car10](https://github.com/wangxiao5791509/LGSearch_DDGAN_PyTorch/blob/master/pipeline.png) 
 
 
 
