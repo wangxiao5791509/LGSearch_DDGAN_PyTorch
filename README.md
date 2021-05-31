@@ -14,21 +14,6 @@ Tracking-by-detection is a very popular framework for single object tracking whi
 ## Tracking Framework 
 ![rgbt_car10](https://github.com/wangxiao5791509/LGSearch_DDGAN_PyTorch/blob/master/pipeline.png) 
 
-#### Relations between IoU and confidence (response) score 
-![rgbt_car10](https://github.com/wangxiao5791509/LGSearch_DDGAN_PyTorch/blob/master/iou_plot_all.png) 
-
-## Experimental Results 
-![ganTANet_lasotv2](https://user-images.githubusercontent.com/12805786/119231068-8a2ecc80-bb51-11eb-85f1-61a7335f1c5f.png)
-
-
-
-
-## Demo:
-![rgbt_car10](https://github.com/wangxiao5791509/LGSearch_DDGAN_PyTorch/blob/master/demo_1.gif) 
-![rgbt_car10](https://github.com/wangxiao5791509/LGSearch_DDGAN_PyTorch/blob/master/demo_2.gif) 
-![rgbt_car10](https://github.com/wangxiao5791509/LGSearch_DDGAN_PyTorch/blob/master/demo_3.gif) 
-![rgbt_car10](https://github.com/wangxiao5791509/LGSearch_DDGAN_PyTorch/blob/master/demo_4.gif) 
-![rgbt_car10](https://github.com/wangxiao5791509/LGSearch_DDGAN_PyTorch/blob/master/label.png) 
 
 
 ## Cite 
@@ -51,7 +36,7 @@ If you find this paper useful for your research, please consider citing our pape
 } 
 ~~~
 
-If you have any questions, please contact me via email: wangxiaocvpr@foxmail.com, or wangx03@pcl.ac.cn. 
+If you have any questions, please contact me via email: wangxiaocvpr@foxmail.com. 
 
 
 
