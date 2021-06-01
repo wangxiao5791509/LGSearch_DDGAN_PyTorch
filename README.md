@@ -16,7 +16,7 @@ Tracking-by-detection is a very popular framework for single object tracking whi
 
 
 ## Train 
-1. Prepare the dataset for the training of TANet. Here, we provide a [small dataset]() for the training (Only used to show the entire training process).  
+1. Prepare the dataset for the training of TANet. Here, we provide a [small dataset]() for the training (Only used to show the entire training process). The initial weights for C3D model is available [**here**](https://drive.google.com/file/d/16WzOTmHNgKuZ7GbTa8FT_moUVHbbUFvz/view?usp=sharing).  
 
 2. Modify the related path in the code according to your settings 
 
@@ -34,7 +34,7 @@ python test_got10k.py
 
 2. You can also integrate the code into your own tracker, and conduct local-global search only when needed.
 
-3. Our pre-trained model on the GOT-10K training subset is available [**here**](https://drive.google.com/file/d/16WzOTmHNgKuZ7GbTa8FT_moUVHbbUFvz/view?usp=sharing, https://drive.google.com/file/d/1g3TsL3_qajKdL0bUp1iBwoiq8USHUpGZ/view?usp=sharing). You can use it to predict gloabl attention for your tracker. 
+3. Our pre-trained model on the GOT-10K training subset is available [**here**](https://drive.google.com/file/d/1g3TsL3_qajKdL0bUp1iBwoiq8USHUpGZ/view?usp=sharing). You can use it to predict gloabl attention for your tracker. 
 
 
 
