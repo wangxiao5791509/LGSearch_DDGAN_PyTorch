@@ -15,6 +15,26 @@ Tracking-by-detection is a very popular framework for single object tracking whi
 ![rgbt_car10](https://github.com/wangxiao5791509/LGSearch_DDGAN_PyTorch/blob/master/pipeline.png) 
 
 
+## Train 
+1. Prepare the dataset for the training of TANet. Here, we provide a [small dataset]() for the training (Only used to show the entire training process).  
+
+2. Modify the related path in the code according to your settings 
+
+3. Execute following script 
+~~~
+python train.py 
+~~~
+
+
+## Testing 
+1. You can directly generate all the attention images for your testing dataset, for example, [[GOT-10K](http://got-10k.aitestunion.com/)] or [[TNL2K](https://sites.google.com/view/langtrackbenchmark/)].  
+~~~
+python test_got10k.py
+~~~
+
+2. You can also integrate the code into your own tracker, and conduct local-global search only when needed.
+
+
 
 ## Cite 
 
