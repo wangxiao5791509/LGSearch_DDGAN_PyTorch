@@ -34,6 +34,8 @@ python test_got10k.py
 
 2. You can also integrate the code into your own tracker, and conduct local-global search only when needed.
 
+3. Our pre-trained model on the GOT-10K training subset is available [**here**](https://drive.google.com/file/d/16WzOTmHNgKuZ7GbTa8FT_moUVHbbUFvz/view?usp=sharing, https://drive.google.com/file/d/1g3TsL3_qajKdL0bUp1iBwoiq8USHUpGZ/view?usp=sharing). You can use it to predict gloabl attention for your tracker. 
+
 
 
 ## Cite 
