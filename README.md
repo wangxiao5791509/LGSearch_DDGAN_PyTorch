@@ -15,26 +15,14 @@ Tracking-by-detection is a very popular framework for single object tracking whi
 ![rgbt_car10](https://github.com/wangxiao5791509/LGSearch_DDGAN_PyTorch/blob/master/pipeline.png) 
 
 
-## Train 
-1. Prepare the dataset for the training of TANet. Here, we provide a [small dataset](https://drive.google.com/file/d/1X5HIez6LYB9sStod-hYbdLicqC2t_C1I/view?usp=sharing) for the training (Only used to show the entire training process). The initial weights for C3D model is available [**here**](https://drive.google.com/file/d/16WzOTmHNgKuZ7GbTa8FT_moUVHbbUFvz/view?usp=sharing).  
 
-2. Modify the related path in the code according to your settings 
-
-3. Execute the following script 
-~~~
-python train.py 
-~~~
-
-
-## Testing 
+## Inference
 1. You can directly generate all the attention images for your testing dataset, for example, [[GOT-10K](http://got-10k.aitestunion.com/)] or [[TNL2K](https://sites.google.com/view/langtrackbenchmark/)].  
 ~~~
 python test_got10k.py
 ~~~
 
-2. You can also integrate the code into your own tracker, and conduct local-global search only when needed.
-
-3. Our pre-trained model on the GOT-10K training subset is available [**here**](https://drive.google.com/file/d/1g3TsL3_qajKdL0bUp1iBwoiq8USHUpGZ/view?usp=sharing). You can use it to predict gloabl attention for your tracker. 
+2. You can also integrate the code into your own tracker, and conduct local-global search only when needed. Our pre-trained model on the GOT-10K training subset is available [**here**](https://drive.google.com/file/d/1g3TsL3_qajKdL0bUp1iBwoiq8USHUpGZ/view?usp=sharing). You can use it to predict gloabl attention for your tracker. 
 
 
 
