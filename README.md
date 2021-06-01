@@ -49,7 +49,7 @@ If you find this paper useful for your research, please consider citing our pape
   year={2019}
 } 
 
-@inproceedings{wang2020ganTANetTrack,
+@inproceedings{wang2021ganTANetTrack,
   title={Tracking by Joint Local and Global Search: A Target-aware Attention based Approach},
   author={Wang, Xiao and Tang, Jin and Luo, Bin and Wang, Yaowei and Tian, Yonghong and Wu, Feng },
   journal={IEEE Transactions on Neural Networks and Learning Systems},
