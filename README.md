@@ -16,11 +16,11 @@ Tracking-by-detection is a very popular framework for single object tracking whi
 
 
 ## Train 
-1. Prepare the dataset for the training of TANet. Here, we provide a [small dataset]() for the training (Only used to show the entire training process). The initial weights for C3D model is available [**here**](https://drive.google.com/file/d/16WzOTmHNgKuZ7GbTa8FT_moUVHbbUFvz/view?usp=sharing).  
+1. Prepare the dataset for the training of TANet. Here, we provide a [small dataset](https://drive.google.com/file/d/1X5HIez6LYB9sStod-hYbdLicqC2t_C1I/view?usp=sharing) for the training (Only used to show the entire training process). The initial weights for C3D model is available [**here**](https://drive.google.com/file/d/16WzOTmHNgKuZ7GbTa8FT_moUVHbbUFvz/view?usp=sharing).  
 
 2. Modify the related path in the code according to your settings 
 
-3. Execute following script 
+3. Execute the following script 
 ~~~
 python train.py 
 ~~~
