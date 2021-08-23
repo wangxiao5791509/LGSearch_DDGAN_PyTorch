@@ -1,4 +1,4 @@
-# LGSearch_DDGAN_PyTorch 
+# LGSearch_DDGAN_PyTorch  <img src="tanet_arts.png" width="400" align="right"> 
 
 Official Implementation of Joint Local and Global Search for Visual Tracking with Adversarial Learning. 
 
