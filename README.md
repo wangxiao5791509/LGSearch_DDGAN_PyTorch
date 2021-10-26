@@ -22,7 +22,7 @@ Tracking-by-detection is a very popular framework for single object tracking whi
 python test_got10k.py
 ~~~
 
-2. You can also integrate the code into your own tracker, and conduct local-global search only when needed. Our pre-trained model on the GOT-10K training subset is available [**here**](https://drive.google.com/file/d/1g3TsL3_qajKdL0bUp1iBwoiq8USHUpGZ/view?usp=sharing). You can use it to predict gloabl attention for your tracker. 
+2. You can also integrate the code into your own tracker, and conduct local-global search only when needed. Our pre-trained model on the GOT-10K training subset is available [**here**](https://drive.google.com/file/d/1jc0pwC4Y8m9qD4tbSitfGlkW_475Xljs/view?usp=sharing). You can use it to predict gloabl attention for your tracker. 
 
 
 
